@@ -1,2 +1,1 @@
-# Financial-Risk-Intelligence-Dashboard
-22:43Claude responded: Power BI dashboard on Indian banking credit risk &amp; CIBIL analysis.Power BI dashboard on Indian banking credit risk &amp; CIBIL analysis. Features DAX measures, loan portfolio health, default patterns &amp; risk segmentation on real bank dataset. Published to Power BI Service.
+Power BI dashboard on Indian banking credit risk &amp; CIBIL analysis.Power BI dashboard on Indian banking credit risk &amp; CIBIL analysis. Features DAX measures, loan portfolio health, default patterns &amp; risk segmentation on real bank dataset. Published to Power BI Service.

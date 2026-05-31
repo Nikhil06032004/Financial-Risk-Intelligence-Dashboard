@@ -141,6 +141,7 @@ DIVIDE([Debit Count], [Total Transactions]) * 100
 - Branch-level data reveals concentration of activity in specific locations
 
 ---
+<img width="693" height="379" alt="image" src="https://github.com/user-attachments/assets/289380b6-b2fb-460c-88eb-f538e0e4be25" />
 
 ## 👨‍💻 Author
 

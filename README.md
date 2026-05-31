@@ -174,7 +174,7 @@ External_CIBIL_Dataset
 - Customers with 4+ missed payments have 
   68% lower approval probability
   
-  Screenshot 2026-05-31 194416.png
+  <img width="690" height="381" alt="image" src="https://github.com/user-attachments/assets/53e082ad-8781-48f4-9309-2d51fea8fc3a" />
 
 **Nikhil Sharma**
 B.E. Computer Engineering | University of Mumbai | 2026

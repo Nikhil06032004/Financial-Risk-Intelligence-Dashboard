@@ -173,6 +173,8 @@ External_CIBIL_Dataset
   rates vs secured loans
 - Customers with 4+ missed payments have 
   68% lower approval probability
+  
+  Screenshot 2026-05-31 194416.png
 
 **Nikhil Sharma**
 B.E. Computer Engineering | University of Mumbai | 2026
